@@ -3,7 +3,7 @@
     "description": "For GOT.",
     "env": {
         "PASSWORD": {
-            "description": "Trojan-Go PASSWORD",
+            "description": "PASSWORD",
             "value": "password"
         }
     },
